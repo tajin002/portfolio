@@ -276,6 +276,13 @@ header.sticky{
 	gap: 2.5rem;
 	margin-top: 5rem;
 }
+
+.react p{
+	margin-top: 35px;
+	font-size: 25px;
+	font-weight: bold;
+}
+
 .row{
 	position: relative;
 	overflow: hidden;
